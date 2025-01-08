@@ -1,6 +1,6 @@
-## <div align="center"> Weather Dashboard </div>
+# <div align="center" id="logo"> ⚡![WeatherDashboardLogo](https://imgur.com/JicH1Ow.png) </div>
 
-# <div align="center"> A weather data collection system using AWS S3 and OpenWeather API </div>
+## <div align="center"> A weather data collection system using AWS S3 and OpenWeather API </div>
 
 
 ## ℹ️ Project Overview
@@ -31,15 +31,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 
 
 ## 🌱 Project Structure
-weather-dashboard/
-  src/
-    __init__.py
-    weather_dashboard.py
-  tests/
-  data/
-  .env
-  .gitignore
-  requirements.txt
+[ProjectStructure](https://imgur.com/bi8w2Vo.png)
 
 ## 🚀 Get Started
 Want to recreate this project? Instructions are below! <br>
