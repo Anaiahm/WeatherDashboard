@@ -1,4 +1,4 @@
-# <div align="center" id="logo"> ⚡![WeatherDashboardLogo](https://imgur.com/JicH1Ow.png) </div>
+# <div align="center" id="logo"> ![WeatherDashboardLogo](https://imgur.com/JicH1Ow.png) </div>
 
 ## <div align="center"> A weather data collection system using AWS S3 and OpenWeather API </div>
 
@@ -31,7 +31,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 
 
 ## 🌱 Project Structure
-[ProjectStructure](https://imgur.com/bi8w2Vo.png)
+![ProjectStructure](https://imgur.com/bi8w2Vo.png)
 
 ## 🚀 Get Started
 Want to recreate this project? Instructions are below! <br>
