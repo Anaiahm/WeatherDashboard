@@ -1,6 +1,6 @@
 ## <div align="center"> Weather Dashboard </div>
 
-A weather data collection system using AWS S3 and OpenWeather API
+# <div align="center"> A weather data collection system using AWS S3 and OpenWeather API </div>
 
 
 ## ℹ️ Project Overview
@@ -29,7 +29,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - python-dotenv
   - requests
 
-```markdown
+
 ## 🌱 Project Structure
 weather-dashboard/
   src/
